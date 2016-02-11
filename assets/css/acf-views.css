@@ -1,0 +1,59 @@
+
+
+.acf-output-wrap {
+	padding-left: 10px;
+	padding-right: 10px;
+	border-bottom: 1px solid green;
+	display:inline-block;
+}
+
+.acf-output-message .acf-input {
+	display: none;
+}
+
+
+.acf-tab-output {
+	display:none;
+}
+
+
+.acf-fields > .acf-field.acf-output-flexible-content {
+	margin-bottom: 32px;
+}
+
+.acf-output-flexible-content .layout .acf-fc-layout-handle {
+  display: block;
+  position: relative;
+  padding: 8px 10px;
+  cursor: move;
+  border-bottom: #E1E1E1 solid 1px;
+  color: #333333;
+  font-size: 14px;
+  line-height: 1.4em;
+}
+
+.acf-output-flexible-content .layout .fc-layout-order {
+  display: block;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  text-align: center;
+  line-height: 20px;
+  margin: 0 5px 0 0;
+  background: #F1F1F1;
+  float: left;
+  font-size: 12px;
+  color: #666;
+}
+
+.acf-output-flexible-content .layout .acf-fields {
+	margin-top:7px;
+	margin-left:22px;
+}
+
+.acf-output-flexible-content .values .layout .acf-fields .acf-field {
+	border-left:#EEEEEE solid 1px;
+	border-bottom:1px solid #eeeeee;
+	border-top-width: 1px;
+	margin-top:1px;
+}
