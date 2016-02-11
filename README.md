@@ -8,5 +8,5 @@ A view of any attached fields will be created.
 
 ![Basic Output](/docs/basic-output.png?raw=true "Basic Output")
 
-The acf_view() function will take argumets matching that of [acf_form]http://www.advancedcustomfields.com/resources/acf_form/
+The acf_view() function will take argumets matching that of ![acf_form]http://www.advancedcustomfields.com/resources/acf_form/
 
